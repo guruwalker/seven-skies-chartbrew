@@ -1,6 +1,4 @@
 node_modules
-.env
-models/.env
-.eslintcache 
+.eslintcache
 .cache
 uploads
